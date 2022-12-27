@@ -1,6 +1,6 @@
 # Introduction-to-GIS
-The repository stores data files for the Introduction to GIS Module. 
-The README file presents and overview of all the maps created and the tools used. 
+The repository stores data files for the Introduction to GIS Module. \
+The README file presents and overview of all the maps created and the tools used. \
 ArcGIS Pro was used for completeing all the exercises for this course.
 
 ## Topics
