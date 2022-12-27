@@ -1,7 +1,9 @@
 # Introduction to Geographical Information Systems (GIS)
-The repository stores data files for the Introduction to Geographical Information Systems (GIS) module. The assignments were offered at the University of Oslo. \
-The README file presents and overview of all the maps created and the tools used. The folders have more details about the individual mapping projects. \
-ArcGIS Pro was used for completeing all the exercises for this course.
+The repository stores data files for the Introduction to Geographical Information Systems (GIS) module. \
+The assignments were offered at the University of Oslo. \
+The README file presents and overview of all the maps created and the tools used. \
+The folders have more details about the individual mapping projects. \
+ArcGIS Pro was used for completeing all the exercises for this course. 
 
 ## Topics
 | Topic | Description |
