@@ -6,16 +6,16 @@ The folders have more details about the individual mapping projects. \
 ArcGIS Pro was used for completeing all the exercises for this course. 
 
 ## Topics
-| Topic | Description |
-| ----------- | ----------- |
-| Introduction | Title |
-| Cartography and Data Visualization | Text |
-| Projections and Georeferencing | Title |
-| Collecting Spatial Data | Title |
-| Spatial Analysis | Title |
-| Network Analysis | Title |
-| Spatial Auto Corelation | Title |
-| Rasters | Title |
+| Topic | Description | Tools Used |
+| ----------- | ----------- | ----------- |
+| Introduction | Title | ----------- |
+| Cartography and Data Visualization | Text | ----------- |
+| Projections and Georeferencing | Title | ----------- |
+| Collecting Spatial Data | Title | ----------- |
+| Spatial Analysis | Title | ----------- |
+| Network Analysis | Title | ----------- |
+| Spatial Auto Corelation | Title | ----------- |
+| Rasters | Title | ----------- |
 
 ## Overview
 
