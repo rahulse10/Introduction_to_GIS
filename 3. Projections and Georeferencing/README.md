@@ -3,8 +3,8 @@ In this section we explored map projections and worked on changing projections o
 
 ##Maps Created
 
-! [1. Comparision of Mercator and Equidistant projections on a World Map] (image.jpg)
-! [2. Map of Norway with main centres in Oslo shown with an inset] (image.jpg)
+Map of Norway with main centres in Oslo shown with an inset 
+![2. Map of Norway with main centres in Oslo shown with an inset](https://github.com/rahulse10/Introduction_to_GIS/blob/main/3.%20Projections%20and%20Georeferencing/Layout1.jpg)
 
 ##Dataset Used 
 
