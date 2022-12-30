@@ -3,7 +3,7 @@ In this section we explored spatial analysis tools by creating a flood vulnerabi
 
 ## Maps Produced
 
-![]
+![] (https://github.com/rahulse10/Introduction_to_GIS/blob/main/5.%20Spatial%20Analysis/Layout.jpg)
 
 ## Dataset Used 
 
