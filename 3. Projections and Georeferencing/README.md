@@ -1,12 +1,12 @@
 # 3. Projections and Georeferencing
 In this section we explored map projections, and worked on changing projections of features and the use of inset maps.
 
-##Maps Created
+## Maps Produced
 
-! [1. Comparision of Mercator and Equidistant projections on a World Map] (image.jpg)
-! [2. Map of Norway with main centres in Oslo shown with an inset] (image.jpg)
+![1. Comparision of Mercator and Equidistant projections on a World Map] (https://github.com/rahulse10/Introduction_to_GIS/blob/main/3.%20Projections%20and%20Georeferencing/RS1_A4_Portrait1.jpg)
+![2. Map of Norway with main centres in Oslo shown with an inset] (https://github.com/rahulse10/Introduction_to_GIS/blob/main/3.%20Projections%20and%20Georeferencing/RS1_A4_Portrait.jpg)
 
-##Dataset Used 
+## Dataset Used 
 
 1. ne_100m_admin_0_countries.shp Natural Earth Data
 2. norway_pop2017_n1000.shp SSB - Statistics Norway (data) and Kartverket (map)
