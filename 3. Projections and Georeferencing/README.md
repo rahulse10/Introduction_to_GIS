@@ -1,7 +1,7 @@
 # 3. Projections and Georeferencing
 In this section we explored map projections and worked on changing projections of features and the use of inset maps.
 
-##Maps Created
+## Maps Created
 
 Map of Norway with main centres in Oslo shown with an inset 
 ![2. Map of Norway with main centres in Oslo shown with an inset](https://github.com/rahulse10/Introduction_to_GIS/blob/main/3.%20Projections%20and%20Georeferencing/Layout1.jpg)
