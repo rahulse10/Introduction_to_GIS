@@ -1,10 +1,10 @@
 # 3. Projections and Georeferencing
-In this section we explored map projections and worked on changing projections of features and the use of inset maps.
+In this section we explored map projections, and worked on changing projections of features and the use of inset maps.
 
-## Maps Created
+##Maps Created
 
-Map of Norway with main centres in Oslo shown with an inset 
-![2. Map of Norway with main centres in Oslo shown with an inset](https://github.com/rahulse10/Introduction_to_GIS/blob/main/3.%20Projections%20and%20Georeferencing/Layout1.jpg)
+! [1. Comparision of Mercator and Equidistant projections on a World Map] (image.jpg)
+! [2. Map of Norway with main centres in Oslo shown with an inset] (image.jpg)
 
 ##Dataset Used 
 
@@ -13,4 +13,8 @@ Map of Norway with main centres in Oslo shown with an inset
 3. tettsted2016.shp SSB - Statistics Norway2
 
 ##Discussion
+This exercise explored different projections in map-making. The mesure distance tool was used to see the difference in result between Mercator and Equidistant projections (Area preserving). 
+The difference between planar and geodesic measurements was also explored. The Eckert IV (Area preseving) projection was also compared.
+
 With the second map, I learnt how to change projections of a dataset with the tool Define Projection. With the layout, I learnt how to add an inset using Extent Indicator.
+The final map showed Norway with an inset map showing the built up areas in Oslo.
