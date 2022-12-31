@@ -3,7 +3,8 @@ In this section we learned about various cartographic techniques and principles
 
 ## Maps Produced
 
-![](https://github.com/rahulse10/Introduction_to_GIS/blob/main/5.%20Spatial%20Analysis/Layout.jpg)
+![](https://github.com/rahulse10/Introduction_to_GIS/blob/main/2.%20Cartography/RS1_A4_Portrait.jpg)
+![](https://github.com/rahulse10/Introduction_to_GIS/blob/main/2.%20Cartography/Layout2.jpg)
 
 ## Dataset Used 
 
@@ -14,5 +15,5 @@ In this section we learned about various cartographic techniques and principles
 
 
 ## Discussion
-The first map shows the municipalities in Norway that are coloured basec on the population density, with darker colors representing higher population density. 
+The first map shows the municipalities in Norway that are coloured basec on the population density, with darker colors representing higher population density. /
 The second map shows the world with bivariate symobology represnting countries based on their population and the population growth rate.
