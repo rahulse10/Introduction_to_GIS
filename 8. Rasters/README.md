@@ -3,7 +3,7 @@ In this section we learned about raster data, satellite imagery and tools used t
 
 ## Maps Produced
 
-![](https://github.com/rahulse10/Introduction_to_GIS/blob/main/5.%20Spatial%20Analysis/Layout.jpg)
+![](https://github.com/rahulse10/Introduction_to_GIS/blob/main/8.%20Rasters/Hillshade.jpg)
 
 ## Dataset Used 
 
