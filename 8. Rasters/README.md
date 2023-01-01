@@ -1,5 +1,5 @@
-# 5. Spatial Analysis
-In this section we explored spatial analysis tools by creating a flood vulnerability map of Hamar municipality.
+# 8. Rasters
+In this section we learned about raster data, satellite imagery and tools used to extract informations from it.
 
 ## Maps Produced
 
@@ -7,15 +7,19 @@ In this section we explored spatial analysis tools by creating a flood vulnerabi
 
 ## Dataset Used 
 
-1. Water bodies (innsjo and elv) and Administrative boundaries(hamar_admin) - Noregs vassdrags- og energidirektorat (NVE)
-2. Elevation information (hamar_hoyde) - Kartverket
-3. Buildings (hamar_buildings) - OpenStreetMap, extracted using geofabrik.de
-4. Population statistics(population250) - Statistisk sentralbyrå (SSB)
-
+1. dtm10.tif - Geodata AS / Statens Kartverk, downloaded from hoydedata.no
+2. roads_osm_bergentettsted.shp - OpenStreetMap, extracted using geofabrik.de
+3. buildings_osm_bergentettsted.shp - OpenStreetMap, extracted using geofabrik.de
+4. N50_water_bergen.shp - Kartverket, downloaded from geonorge.no
+5. sentinel2_bergen2020.tif - Copernicus Sentinel-2 / Kartverket / CESBIO – CNES, downloaded from geonorge.no
 
 ## Discussion
-Hamar is located in Innlandet county and is one of the most flood vulnerable places in Norway. 
-To create the flood vulnerability map, First a buffer of 150 m around the water bodies (Lakes and Rivers) was created using the **Buffer** and **Merge** tool. 
-Secondly, areas of low elevation (under 130m) were identified using the **Definition Query**. Then using the Feature to Polygon tool, the area under Hamar municipality was split between high and low elevation.
-Then the vulnerability map was created by identifying areas that are near the water bodies and have a low elevation. The **Clip** tool was used to identify the areas that fall under both categories.
-Then the **Feature to Point** tool was used to identify buildings and total number of residents living in the flood risk area. The count was 315, and was found using **Summarize within** tool.
+5 maps were produced using different Raster function tools. /
+1. A hillshade map was prepared for Bergen. It is a grayscale represntation of the shades produced when sunbeams hit the surface. /
+2. Aspect map of Bergen which tells us about the cardinal direction of a slope. Using the Add Surface Information tool, the information derived from the Aspect map was addedd to the buildings dataset of the region. 
+This can be used to check the orientation of the ground on which each building stands. /
+3. Slope map of Bergen was prepared with the DTM . Using the Add Surface Information tool, the information derived from the Slope map was addedd to the roads dataset of the region.
+This can be used to check the slope of the roads which can be used to predict what roads will people most likely use to walk. /
+4. A Contour map was prepared with contour interval of 50m.
+5. For the last map, green area in Bergen were identified using Normalized difference vegetation index (NDVI) function. Using Sentinel 2 staellite image and Green NVDI imagery tools, the map was prepared. 
+Finally, Green Areas were symoblised using the **Reclassify** Tool. 
