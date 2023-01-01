@@ -10,7 +10,7 @@ Angela Subedi, angelasu@stud.ntnu.no Rahul Sehgal, rahulse@stud.ntnu.no
 ## Topics
 | Topic | Description | Tools Used |
 | ----------- | ----------- | ----------- |
-| Introduction | Title | ----------- |
+| Introduction | ArcGIS Pro interface was introduced and a simple map of COVID-19 vaccination status in Europe was produced | ----------- |
 | Cartography and Data Visualization | Text | ----------- |
 | Projections and Georeferencing | Title | ----------- |
 | Collecting Spatial Data | Title | ----------- |
