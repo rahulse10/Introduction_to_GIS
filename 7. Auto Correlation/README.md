@@ -1,4 +1,4 @@
-# 5. Spatial Analysis
+# 6. Auto Correlation
 In this section we explored spatial analysis tools by creating a flood vulnerability map of Hamar municipality.
 
 ## Maps Produced
