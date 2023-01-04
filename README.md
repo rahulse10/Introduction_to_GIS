@@ -3,7 +3,7 @@ The repository stores data files for the Introduction to Geographical Informatio
 The assignments were offered at the University of Oslo. \
 The README file presents and overview of all the maps created and the tools used. \
 The folders have more details about the individual mapping projects. \
-ArcGIS Pro was used for completeing all the exercises for this course. 
+ArcGIS Pro was used for completeing the exercises for this course. For Exercise 7, GeoDa was used to run the spatial autocorrelation test.
 
 Angela Subedi, angelasu@stud.ntnu.no Rahul Sehgal, rahulse@stud.ntnu.no
 

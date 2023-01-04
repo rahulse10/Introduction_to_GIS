@@ -1,21 +1,24 @@
 # 6. Auto Correlation
-In this section we explored spatial analysis tools by creating a flood vulnerability map of Hamar municipality.
+In this section we used the open source GeoDa software to measure spatial autocorrelation and map clusters, using global and local Moran's I tests.
 
 ## Maps Produced
 
-![](https://github.com/rahulse10/Introduction_to_GIS/blob/main/5.%20Spatial%20Analysis/Layout.jpg)
+![]()
 
 ## Dataset Used 
 
-1. Water bodies (innsjo and elv) and Administrative boundaries(hamar_admin) - Noregs vassdrags- og energidirektorat (NVE)
-2. Elevation information (hamar_hoyde) - Kartverket
-3. Buildings (hamar_buildings) - OpenStreetMap, extracted using geofabrik.de
-4. Population statistics(population250) - Statistisk sentralbyrå (SSB)
-
+1. Election_2021.shp -Kartverket, downloaded from geonorge.no
+2. Election statistics - Valgdirektoratet, downloaded from valgresultat.no
 
 ## Discussion
-Hamar is located in Innlandet county and is one of the most flood vulnerable places in Norway. 
-To create the flood vulnerability map, First a buffer of 150 m around the water bodies (Lakes and Rivers) was created using the **Buffer** and **Merge** tool. 
-Secondly, areas of low elevation (under 130m) were identified using the **Definition Query**. Then using the Feature to Polygon tool, the area under Hamar municipality was split between high and low elevation.
-Then the vulnerability map was created by identifying areas that are near the water bodies and have a low elevation. The **Clip** tool was used to identify the areas that fall under both categories.
-Then the **Feature to Point** tool was used to identify buildings and total number of residents living in the flood risk area. The count was 315, and was found using **Summarize within** tool.
+The GeoDa software was used to conduct the spatial autocorrelation test (Global and Local Moran's I test) on Norway's election data. QGIS was used to symoblise the LISA map.
+ 
+1. Global Moran's I test 
+K-nearest neighbours = 6 was used to define the neighbourhood relationship for the test.
+Univariate Moran's I test was conducted on percentage of votes to the Labour party. 
+The value was found to be 0.519, with a p value < 0.05, showing a positive and significant correlation between neighbourhood municipalities voring for the Labour party. 
+
+2. Local Moran's I test
+A LISA map (Local Indicators of Spatial Association) was prepared to identify clusters in voting patterns. 
+The Univariate Local Moran's I test was run on the data for percentage of votes to the labout party and the map was imported to QGIS.
+A High-High correlation was found in the regions of Finnmark, Innlandet and some parts of Trøndelag.
