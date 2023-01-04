@@ -1,4 +1,4 @@
-# 6. Auto Correlation
+# 6. Spatial Autocorrelation
 In this section we used the open source GeoDa software to measure spatial autocorrelation and map clusters, using global and local Moran's I tests.
 
 ## Maps Produced
