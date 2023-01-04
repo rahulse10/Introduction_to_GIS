@@ -3,7 +3,7 @@ In this section we used the open source GeoDa software to measure spatial autoco
 
 ## Maps Produced
 
-![](https://github.com/rahulse10/Introduction_to_GIS/blob/main/7.%20Auto%20Correlation/LISA%20MAP.jpg)
+![](https://github.com/rahulse10/Introduction_to_GIS/blob/main/7.%20Spatial%20Autocorrelation/LISA%20MAP.jpg)
 
 ## Dataset Used 
 
