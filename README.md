@@ -21,7 +21,7 @@ Angela Subedi, angelasu@stud.ntnu.no Rahul Sehgal, rahulse@stud.ntnu.no
 ## Some maps produced during the course - 
 
 ![](https://github.com/rahulse10/Introduction_to_GIS/blob/main/5.%20Spatial%20Analysis/Layout.jpg)
-![](https://github.com/rahulse10/Introduction_to_GIS/blob/main/8.%20Rasters/Contour.jpg)
+![](https://github.com/rahulse10/Introduction_to_GIS/blob/main/7.%20Rasters/Contour.jpg)
 ![](https://github.com/rahulse10/Introduction_to_GIS/blob/main/2.%20Cartography/Layout2.jpg)
-![](https://github.com/rahulse10/Introduction_to_GIS/blob/main/8.%20Rasters/Slopes.jpg)
+![](https://github.com/rahulse10/Introduction_to_GIS/blob/main/7.%20Rasters/Slopes.jpg)
 ![](https://github.com/rahulse10/Introduction_to_GIS/blob/main/6.%20Spatial%20Autocorrelation/LISA%20MAP.jpg)
