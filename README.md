@@ -11,7 +11,7 @@ Angela Subedi, angelasu@stud.ntnu.no Rahul Sehgal, rahulse@stud.ntnu.no
 | Topic | Description | Tools Used |
 | ----------- | ----------- | ----------- |
 | Introduction | ArcGIS Pro interface was introduced and a simple map of COVID-19 vaccination status in Europe was produced | Add data, Attribute Tables |
-| Cartography and Data Visualization | Basic Cartographic priciples were introduced and two maps showing the population density of Norwegian municipalities and a world map showing population growth rate were produced | Symbology, Layout |
+| Cartography and Data Visualization | Basic Cartographic priciples were introduced and two maps showing the population density of Norwegian municipalities and a world map showing population growth rate were produced | Symbology, Layout, Spatial Join |
 | Projections and Georeferencing | BAsics about map projections and how to change feature and map projections in ArcGIS Pro was introduced. A map comparing Mercator and Equidistant projects, and a map of Norway showing Oslo as an inset were produced| Measure distance, Define projections, Extent indicator
 | Collecting Spatial Data | Spatial data was collected on a smartphone using the input app and imported to ArcGIS Pro. Features were prepared manually using Edit tools. | Edit - Create, Trace, Snapping |
 | Spatial Analysis | Spatial Analysis tools were explored by creating a flood vulnerability map of Hamar, Norway | Buffer, Merge, Definition Query, Feature to Polygon, Clip, Feature to Point, Summarize within |
