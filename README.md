@@ -16,11 +16,12 @@ Angela Subedi, angelasu@stud.ntnu.no Rahul Sehgal, rahulse@stud.ntnu.no
 | Collecting Spatial Data | Spatial data was collected on a smartphone using the input app and imported to ArcGIS Pro. Features were prepared manually using Edit tools. | Edit - Create, Trace, Snapping |
 | Spatial Analysis | Spatial Analysis tools were explored by creating a flood vulnerability map of Hamar, Norway | Buffer, Merge, Definition Query, Feature to Polygon, Clip, Feature to Point, Summarize within |
 | Spatial Auto Corelation | GeoDa was used to perform Global and Local Moran's I test on percetage of votes to the labout party in 2017 election. A LISA Map was produced using QGIS to identify clusters of correlation for the data  | Weight file, Univariate Moran's I test, Univariate local Moran's I test.|
-| Rasters | Four maps were produced for Bergen using its DTM and various Raster tools available. A map showing the green areas of Bergen using Sentinel 2 imagery was also produced. | Raster Tools - Hillshade, Aspect, Slope, Contour / Imagery Tools - Green (NVDI)  |
+| Rasters | Four maps were produced for Bergen using its DTM and various Raster tools available. A map showing the green areas of Bergen using Sentinel 2 imagery was also produced. | 1. Raster Tools - Hillshade, Aspect, Slope, Contour. Imagery Tools - Green (NVDI)  |
 
 ## Some maps produced during the course - 
 
-![](https://github.com/rahulse10/Introduction_to_GIS/blob/main/8.%20Rasters/Green%20Areas.jpg)
 ![](https://github.com/rahulse10/Introduction_to_GIS/blob/main/5.%20Spatial%20Analysis/Layout.jpg)
 ![](https://github.com/rahulse10/Introduction_to_GIS/blob/main/8.%20Rasters/Contour.jpg)
 ![](https://github.com/rahulse10/Introduction_to_GIS/blob/main/2.%20Cartography/Layout2.jpg)
+![](https://github.com/rahulse10/Introduction_to_GIS/blob/main/8.%20Rasters/Slopes.jpg)
+![](https://github.com/rahulse10/Introduction_to_GIS/blob/main/8.%20Rasters/Green%20Areas.jpg)
