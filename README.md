@@ -24,4 +24,4 @@ Angela Subedi, angelasu@stud.ntnu.no Rahul Sehgal, rahulse@stud.ntnu.no
 ![](https://github.com/rahulse10/Introduction_to_GIS/blob/main/8.%20Rasters/Contour.jpg)
 ![](https://github.com/rahulse10/Introduction_to_GIS/blob/main/2.%20Cartography/Layout2.jpg)
 ![](https://github.com/rahulse10/Introduction_to_GIS/blob/main/8.%20Rasters/Slopes.jpg)
-![](https://github.com/rahulse10/Introduction_to_GIS/blob/main/8.%20Rasters/Green%20Areas.jpg)
+![](https://github.com/rahulse10/Introduction_to_GIS/blob/main/6.%20Spatial%20Autocorrelation/LISA%20MAP.jpg)
