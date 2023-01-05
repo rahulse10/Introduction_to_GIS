@@ -3,10 +3,10 @@ In this section we learned about raster data, satellite imagery and tools used t
 
 ## Maps Produced
 
-![](https://github.com/rahulse10/Introduction_to_GIS/blob/main/8.%20Rasters/Hillshade.jpg)
-![](https://github.com/rahulse10/Introduction_to_GIS/blob/main/8.%20Rasters/Green%20Areas.jpg)
-![](https://github.com/rahulse10/Introduction_to_GIS/blob/main/8.%20Rasters/Contour.jpg)
-![](https://github.com/rahulse10/Introduction_to_GIS/blob/main/8.%20Rasters/Slopes.jpg)
+![](https://github.com/rahulse10/Introduction_to_GIS/blob/main/7.%20Rasters/Hillshade.jpg)
+![](https://github.com/rahulse10/Introduction_to_GIS/blob/main/7.%20Rasters/Contour.jpg)
+![](https://github.com/rahulse10/Introduction_to_GIS/blob/main/7.%20Rasters/Slopes.jpg)
+![](https://github.com/rahulse10/Introduction_to_GIS/blob/main/7.%20Rasters/Green%20Areas.jpg)
 
 ## Dataset Used 
 
