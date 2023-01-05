@@ -13,7 +13,6 @@ In this section we learned about various cartographic techniques and principles
 3. world_wb - World Bank
 4. Worl Population - UN
 
-
 ## Discussion
 The first map shows the municipalities in Norway that are coloured basec on the population density, with darker colors representing higher population density. /
 The second map shows the world with bivariate symobology represnting countries based on their population and the population growth rate.
