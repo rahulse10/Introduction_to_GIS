@@ -10,15 +10,17 @@ Angela Subedi, angelasu@stud.ntnu.no Rahul Sehgal, rahulse@stud.ntnu.no
 ## Topics
 | Topic | Description | Tools Used |
 | ----------- | ----------- | ----------- |
-| Introduction | ArcGIS Pro interface was introduced and a simple map of COVID-19 vaccination status in Europe was produced | ----------- |
-| Cartography and Data Visualization | Text | ----------- |
-| Projections and Georeferencing | Title | ----------- |
-| Collecting Spatial Data | Title | ----------- |
-| Spatial Analysis | Title | ----------- |
-| Network Analysis | Title | ----------- |
-| Spatial Auto Corelation | Title | ----------- |
-| Rasters | Title | ----------- |
+| Introduction | ArcGIS Pro interface was introduced and a simple map of COVID-19 vaccination status in Europe was produced | Add data, Attribute Tables |
+| Cartography and Data Visualization | Basic Cartographic priciples were introduced and two maps showing the population density of Norwegian municipalities and a world map showing population growth rate were produced | Symbology, Layout |
+| Projections and Georeferencing | BAsics about map projections and how to change feature and map projections in ArcGIS Pro was introduced. A map comparing Mercator and Equidistant projects, and a map of Norway showing Oslo as an inset were produced| Measure distance, Define projections, Extent indicator
+| Collecting Spatial Data | Spatial data was collected on a smartphone using the input app and imported to ArcGIS Pro. Features were prepared manually using Edit tools. | Edit - Create, Trace, Snapping |
+| Spatial Analysis | Spatial Analysis tools were explored by creating a flood vulnerability map of Hamar, Norway | Buffer, Merge, Definition Query, Feature to Polygon, Clip, Feature to Point, Summarize within |
+| Spatial Auto Corelation | GeoDa was used to perform Global and Local Moran's I test on percetage of votes to the labout party in 2017 election. A LISA Map was produced using QGIS to identify clusters of correlation for the data  | Weight file, Univariate Moran's I test, Univariate local Moran's I test.|
+| Rasters | Four maps were produced for Bergen using its DTM and various Raster tools available. A map showing the green areas of Bergen using Sentinel 2 imagery was also produced. | Raster Tools - Hillshade, Aspect, Slope, Contour / Imagery Tools - Green (NVDI)  |
 
-## Overview
+## Some maps produced during the course - 
 
-### 1. Introduction
+![](https://github.com/rahulse10/Introduction_to_GIS/blob/main/8.%20Rasters/Green%20Areas.jpg)
+![](https://github.com/rahulse10/Introduction_to_GIS/blob/main/5.%20Spatial%20Analysis/Layout.jpg)
+![](https://github.com/rahulse10/Introduction_to_GIS/blob/main/8.%20Rasters/Contour.jpg)
+![](https://github.com/rahulse10/Introduction_to_GIS/blob/main/2.%20Cartography/Layout2.jpg)
