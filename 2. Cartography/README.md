@@ -1,5 +1,5 @@
 # 2. Cartography
-In this section we learned about various cartographic techniques and principles
+In this section we learned about various cartographic techniques and principles.
 
 ## Maps Produced
 
