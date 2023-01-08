@@ -11,7 +11,7 @@ In this section we learned about various cartographic techniques and principles
 1. norway_urban_settlements - SSB
 2. norway_municipalities - SSB
 3. world_wb - World Bank
-4. Worl Population - UN
+4. World Population - UN
 
 ## Discussion
 The first map shows the municipalities in Norway that are coloured basec on the population density, with darker colors representing higher population density. /
