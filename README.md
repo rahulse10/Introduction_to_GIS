@@ -1,9 +1,9 @@
 # Introduction to Geographical Information Systems (GIS)
-The repository stores data files for the 'Introduction to Geographical Information Systems (GIS)' module. \
+The repository stores data files for the 'Introduction to Geographical Information Systems' module. \
 The assignments were offered at the University of Oslo. \
 The README file presents an overview of all the maps created and the tools used. \
 The folders have more details about the individual mapping projects. \
-ArcGIS Pro was used for completing the exercises for this course. For Exercise 7, GeoDa was used to run the spatial autocorrelation test.
+ArcGIS Pro was used for completing the exercises for this course. For Exercise 6, GeoDa was used to run the spatial autocorrelation test.
 
 Contributors: Angela Subedi, angelasu@stud.ntnu.no Rahul Sehgal, rahulse@stud.ntnu.no
 
