@@ -1,5 +1,6 @@
 # 1. Introduction
-In this section, we were introduced to the basic functionality and tools in ArcGIS Pro.
+In this section, we were introduced to the basic functionality and tools in ArcGIS Pro. 
+We got familiar with the interface, learned how to add shapefiles to the map and how to identify and symbolize information in the shapefiles. We also learned how to make a layout of the map and export its image file.
 
 ## Maps Produced
 
