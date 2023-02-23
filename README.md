@@ -6,6 +6,7 @@ The folders have more details about the individual mapping projects. \
 ArcGIS Pro was used for completing the exercises for this course. For Exercise 6, GeoDa was used to run the spatial autocorrelation test.
 
 Contributors: Angela Subedi, angelasu@stud.ntnu.no Rahul Sehgal, rahulse@stud.ntnu.no
+Date: Sep 21 - Dec 21
 
 ## Topics
 | Topic | Description | Tools Used |
