@@ -5,8 +5,8 @@ The README file presents an overview of all the maps created and the tools used.
 The folders have more details about the individual mapping projects. \
 ArcGIS Pro was used for completing the exercises for this course. For Exercise 6, GeoDa was used to run the spatial autocorrelation test.
 
-Contributors: Angela Subedi, angelasu@stud.ntnu.no Rahul Sehgal, rahulse@stud.ntnu.no
-Date: Sep 21 - Dec 21
+Contributors: Angela Subedi, angelasu@stud.ntnu.no Rahul Sehgal, rahulse@stud.ntnu.no \
+Date: September 2021 - December 2021
 
 ## Topics
 | Topic | Description | Tools Used |
